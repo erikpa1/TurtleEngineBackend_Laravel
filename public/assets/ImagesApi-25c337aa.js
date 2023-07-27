@@ -1,0 +1,1 @@
+import{aV as s,F as a}from"./index-bbd1ebcb.js";const i="plugin:turtle_images|";class c{static async GeneratePreviewDesktop(e,t,r){return await s(`${i}CreatePreview`,{sourcePath:a.NormalizePath(e),targetPath:a.NormalizePath(t),width:r}),!0}}export{c as I};

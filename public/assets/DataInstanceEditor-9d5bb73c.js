@@ -1,0 +1,1 @@
+import{j as t,b as s}from"./index-bbd1ebcb.js";import{u as n}from"./assets_hooks-1bb9fe8a.js";function o(){const e=n();return e?t.jsx(r,{asset:e}):t.jsx(s.MiddleSpinner,{})}function r({asset:e}){return t.jsx(t.Fragment,{children:"Unimplemented"})}export{o as default};
